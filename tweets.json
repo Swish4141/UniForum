@@ -1,7 +1,7 @@
 {
     "tweets": [{
             "username": "SpongeBob SquarePants",
-            "handle": "@spongebob",
+            "handle": "spongebob",
             "like": 446,
             "retweets": 173,
             "response": 21,
@@ -24,41 +24,40 @@
             "img": "https://i.imgur.com/XeKRCz7.png"
         },
         {
-            "username": "ionic",
-            "handle": "ionicframework",
+            "username": "Eugene Krabs 🤑",
+            "handle": "pennypincher",
             "like": 1337,
             "retweets": 529,
             "response": 36,
             "liked": false,
             "retweet": true,
-            "text": "🎉 Ionic Vue is (finally) here!<br>Truly native, truly web, truly cross platform<br><br>Built with @vuejs 3.0<br>Standard Vue tooling w/ vue-router<br>100+ mobile UI components<br>Mobile phone iOS, Android, and PWAs<br><br>Give it a spin 👇",
-            "link": "https://ionicframework.com/blog/announcing-ionic-vue/",
+            "text": "The tuition costs at @CSI are ridiculous!<br>Looks like I'll have to part with me first dollar to pay off my loans 💔",
             "date": "1602793223",
-            "img": "https://devdactic.fra1.digitaloceanspaces.com/twitter-ui/twitter-ionic.jpg"
+            "img": "https://i.imgur.com/3DJtIZH.png"
         },
         {
-            "username": "Ben Sperry",
-            "handle": "benjsperry",
+            "username": "Plankton",
+            "handle": "eat_at_the_chum_bucket",
             "like": 106,
             "retweets": 28,
             "response": 12,
             "liked": false,
             "retweet": false,
-            "text": "Latest up date to the Ionic Start Wizard, which makes it even easier to spin up a new app!",
+            "text": "Whoever is in charge of the CSI cafeteria food needs to be fired. The Chum Bucket ain't looking so bad anymore 😌",
             "date": "1586326823",
-            "img": "https://devdactic.fra1.digitaloceanspaces.com/twitter-ui/twitter-ben.jpg"
+            "img": "https://i.imgur.com/FQyFks5.png"
         },
         {
-            "username": "Matt Nekow",
-            "handle": "dotNetkow",
-            "like": 45,
-            "retweets": 3,
-            "response": 13,
+            "username": "🤖 Karen",
+            "handle": "beepboop",
+            "like": 435,
+            "retweets": 123,
+            "response": 83,
             "liked": true,
             "retweet": true,
-            "text": "2021 tech stack focus:<br> - React (expand)<br>- NextJS (learn)<br>- Vue 3 (expand)<br>- Angular (maintain)<br>- CSS (actually learn it! Smiling face with open mouth and cold sweat)<br>- AWS Amplify<br>You?",
+            "text": "01110000 01101100 01100001 01101110 01101011 01110100 01101111 01101110 00100000 01101001 01110011 00100000 01110011 01101101 01100001 01101100 01101100",
             "date": "1600874423",
-            "img": "https://devdactic.fra1.digitaloceanspaces.com/twitter-ui/twitter-matt.jpg"
+            "img": "https://i.imgur.com/qKdQeoh.png"
         }
     ]
 }
