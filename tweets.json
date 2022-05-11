@@ -1,0 +1,63 @@
+{
+    "tweets": [{
+            "username": "SpongeBob SquarePants",
+            "handle": "spongebob",
+            "like": 446,
+            "retweets": 173,
+            "response": 21,
+            "text": "Just failed my boating test again, which means I'll have to keep taking the ferry shuttle home. @CSI please hire more drivers!",
+            "date": "1581322823",
+            "liked": true,
+            "retweet": true,
+            "img": "https://i.imgur.com/7kDjrh8.jpg"
+        },
+        {
+            "username": "Patrick Star",
+            "handle": "WforWumbo",
+            "like": 14,
+            "retweets": 2,
+            "response": 6,
+            "liked": true,
+            "retweet": true,
+            "text": "CSI really needs to improve their boating school curriculum, I thought it was Spanish class...",
+            "date": "1600874423",
+            "img": "https://i.imgur.com/XeKRCz7.png"
+        },
+        {
+            "username": "Eugene Krabs 🤑",
+            "handle": "pennypincher",
+            "like": 1337,
+            "retweets": 529,
+            "response": 36,
+            "liked": false,
+            "retweet": true,
+            "text": "The tuition costs at @CSI are ridiculous!<br>Looks like I'll have to part with me first dollar to pay off my loans 💔",
+            "date": "1602793223",
+            "img": "https://i.imgur.com/3DJtIZH.png"
+        },
+        {
+            "username": "Plankton",
+            "handle": "eat_at_the_chum_bucket",
+            "like": 106,
+            "retweets": 28,
+            "response": 12,
+            "liked": false,
+            "retweet": false,
+            "text": "Whoever is in charge of the CSI cafeteria food needs to be fired. The Chum Bucket ain't looking so bad anymore 😌",
+            "date": "1586326823",
+            "img": "https://i.imgur.com/FQyFks5.png"
+        },
+        {
+            "username": "🤖 Karen",
+            "handle": "beepboop",
+            "like": 435,
+            "retweets": 123,
+            "response": 83,
+            "liked": true,
+            "retweet": true,
+            "text": "01110000 01101100 01100001 01101110 01101011 01110100 01101111 01101110 00100000 01101001 01110011 00100000 01110011 01101101 01100001 01101100 01101100",
+            "date": "1600874423",
+            "img": "https://i.imgur.com/qKdQeoh.png"
+        }
+    ]
+}
