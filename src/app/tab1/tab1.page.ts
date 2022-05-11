@@ -18,7 +18,7 @@ export class Tab1Page implements OnInit {
   constructor(private http: HttpClient) {}
 
   ngOnInit() {
-    this.http.get('https://devdactic.fra1.digitaloceanspaces.com/twitter-ui/tweets.json').subscribe((data: any) => {
+    this.http.get('https://raw.githubusercontent.com/Swish4141/UniForum/master/tweets.json').subscribe((data: any) => {
       console.log('tweets: ', data.tweets);
       this.posts = data.tweets;
     });
